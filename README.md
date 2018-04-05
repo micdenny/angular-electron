@@ -2,11 +2,11 @@
 
 Check the [blog post](https://dennymichael.net/2018/04/05/build-angular-desktop-apps-with-electron/) to re-create this sample from scratch, step by step.
 
-## Run in electron using a local file (without hod code reload support)
+## Run in electron using a local file (without hot code reload support)
 
 * Run `npm run electron-build` to build the project and run the application inside electron platform.
 
-## Run in electron using a local dev server (WITH hod code reload support)
+## Run in electron using a local dev server (WITH hot code reload support)
 
 * Uncomment the code `mainWindow.loadURL('http://localhost:4200');` in the file `main.js` and comment out `mainWindow.loadURL(...dist/index.html...)`
 * Run `npm start` for a dev server.
