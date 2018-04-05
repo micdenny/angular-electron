@@ -21,7 +21,7 @@ function createWindow() {
   });
 
   // Load a remote URL (this supports hot code reloads)
-  // win.loadURL(`http://localhost:4200`);
+  // mainWindow.loadURL(`http://localhost:4200`);
 
   // Or load the local index.html file
   mainWindow.loadURL(
