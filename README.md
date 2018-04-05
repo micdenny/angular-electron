@@ -18,3 +18,7 @@ The app will automatically reload if you change any of the source files.
 * Run `npm run electron-package-win`.
 
 Now you can run the executable `angular-electron.exe` you found under the folder `angular-electron-win32-x64`.
+
+## Based on [Jeff Delaney](https://github.com/codediodeio)'s sample (Thank you!)
+
+Here's [Jeff's post](https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/), you can also check the [video lesson](https://youtu.be/u_vMChpZMCk) on youtube and the [original source code](https://github.com/AngularFirebase/angular-electron) on github.
